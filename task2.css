@@ -1,0 +1,41 @@
+h1{
+  color: green;
+  text-align:center;
+}
+p{
+color: blue;
+text-align: center;
+}
+.t{
+  border: 4px solid #000;
+  width: 20%;
+  border-radius: 12PX;
+  margin:20px;
+}
+.t1{
+   width:90%;
+  border:  2px solid #000;
+  border-radius: 8PX;
+  margin: auto;
+  margin-top: 10px;
+}
+.t2{
+  width: 90%;
+  text-align: center;
+  background-color: yellow;
+  border:  2px solid #000;
+  border-radius: 8PX;
+  margin: auto;
+  margin-top: 10PX;
+  margin-bottom: 5PX;
+}
+.display{
+  width: 100%;
+  height:100%;
+  display: block;
+}
+.m{
+  display: flex;
+  justify-content: space-around;
+  border: 5px solid#000;
+}
